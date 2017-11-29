@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d026bf2a-3693-44d5-a281-b89a5b887b17" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/binary_tree.py" afterPath="$PROJECT_DIR$/binary_tree.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tree.py" afterPath="$PROJECT_DIR$/tree.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,7 +23,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="binary_tree.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="binary_tree.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/binary_tree.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="798">
@@ -33,11 +33,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tree.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="tree.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tree.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="189">
+              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -52,6 +52,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/binary_tree.py" />
+        <option value="$PROJECT_DIR$/tree.py" />
       </list>
     </option>
   </component>
@@ -162,14 +163,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/tree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/array_binary_tree.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -182,6 +175,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="798">
           <caret line="38" column="39" lean-forward="true" selection-start-line="38" selection-start-column="39" selection-end-line="38" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding />
         </state>
       </provider>
