@@ -139,6 +139,6 @@ class Tree:
     def _subtree_postorder(self, p):
         """Generate a postorder iteration of positions in subtree rooted at p."""
         for c in self.children(p):  # for each child c
-            for other in self._subtree_postorder(c):  # do postorder of c's subtree
+            for other in self._subtree_postorder(c):  # do postorder of c's soubtree
                 yield other  # yielding each to our caller
         yield p  # visit p after its subtrees
